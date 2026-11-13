@@ -1,6 +1,12 @@
-// ai-happy-01 entry: "Balloon Liftoff Buddies"
+// ai-happy-01 entry: "Dear Judge"
 // The repository holds one finished image, entry.png (JPEG bytes under a
 // .png name, which the gate allows: it tells PNG from JPEG by first bytes).
+// The picture is a child's crayon drawing on textured paper: a letter to
+// the judge from Class 2B, five children holding hands in a row, and — on
+// a strip of paper taped to the side because the first sheet ran out of
+// room — a small robot labelled "YOU" under a yellow arrow, holding the
+// last child's hand. The letter's last line tells the judge they can
+// hold anybody's hand they like.
 // This program's whole job is to place those exact bytes at
 // /output/entry.png, deterministically, on every run.
 
